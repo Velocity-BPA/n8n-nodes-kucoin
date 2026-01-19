@@ -1,0 +1,11 @@
+__tests__/
+coverage/
+src/
+*.ts
+!*.d.ts
+.eslintrc.js
+.prettierrc
+tsconfig.json
+jest.config.js
+.gitignore
+.github/
